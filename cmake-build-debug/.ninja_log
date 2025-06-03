@@ -1,0 +1,14 @@
+# ninja log v6
+6	133	1748981120467588530	CMakeFiles/helix_3d.dir/thirdparty/imgui/backends/imgui_impl_opengl3.cpp.o	c0da97412198b2a6
+2	137	1748981120463132780	CMakeFiles/helix_3d.dir/libs/glad/src/glad.c.o	630f2ac1deb2c4f6
+2	487	1748981120463944446	CMakeFiles/helix_3d.dir/thirdparty/imgui/imgui.cpp.o	945d708e5d425c63
+3	319	1748981120464690113	CMakeFiles/helix_3d.dir/thirdparty/imgui/imgui_draw.cpp.o	36850b0d0d75e057
+5	369	1748981120466962613	CMakeFiles/helix_3d.dir/thirdparty/imgui/backends/imgui_impl_glfw.cpp.o	b4666f8654860f68
+18	391	1748981410040874813	CMakeFiles/helix_3d.dir/main.cpp.o	d4dfee744a52f016
+5	268	1748981120466510780	CMakeFiles/helix_3d.dir/thirdparty/imgui/imgui_tables.cpp.o	d3893e18be612246
+4	432	1748981120465227822	CMakeFiles/helix_3d.dir/thirdparty/imgui/imgui_widgets.cpp.o	7c9e9911cac284ef
+391	423	1748981410413647579	helix_3d	fd62137848fbbae7
+17	479	1748982039650854656	CMakeFiles/helix_3d.dir/main.cpp.o	d4dfee744a52f016
+479	571	1748982040112976992	helix_3d	fd62137848fbbae7
+6	447	1748982051790405793	CMakeFiles/helix_3d.dir/main.cpp.o	d4dfee744a52f016
+447	480	1748982052231213499	helix_3d	fd62137848fbbae7
